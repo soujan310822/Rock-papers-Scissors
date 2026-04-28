@@ -51,6 +51,6 @@ Add difficulty levels
 
 -Soujan Kumar
 
-⭐ Notes
+ Notes
 
 This is a beginner-friendly project built for learning Java fundamentals and basic GUI development.
